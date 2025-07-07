@@ -1,43 +1,47 @@
-<div align="center">
-  <img height="150" src="src/pixelgh.gif"  />
-</div>
+# 👋 Hey, I'm Graham
 
-###
+🚀 Advanced Manufacturing Engineer | 🦀 Rustacean | ⚙️ Control Systems Research and Development 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/grlanca/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="sailthesouth@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=YRRhCXfA0Vd0&format=png&color=000000" height="25" alt="mail logo"  />
-  </a>
-</div>
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-<p align="left"><br>- 🔭 I’m working as Advanced Manufacturing Engineer.<br>- 📚 I'm currently learning topics about networking, computer vision, databases, and dashboards.<br>- ⚡ In my free time I do bouldering, gaming, and walking the dogs.</p>
+I'm a mechanical engineer turned software and hardware developer with a passion for building full-stack systems—from microcontrollers to GUIs to data dashboards.
 
+- I work in advanced manufacturing, developing control systems and analyzing machine data.
+- I build custom software tooling, applications, and firmware, often using Rust for high-performance and reliability.
+- I love to learn technical tidbits around embedded systems, networking, computer vision, and engineering. 
+- In my free time, I love to go bouldering, walking the dogs, and gaming.
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 💻 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glancaster&show_icons=true&theme=tokyonight" alt="Graham's GitHub Stats" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/grlanca/)
+- [Personal Site (Coming Soon?)]
+- sailthesouth@gmail.com
+
+---
+
+> “Build the things you want to learn” – Me, to myself, daily.
